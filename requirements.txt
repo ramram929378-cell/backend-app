@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+groq
+replicate
+twilio
+sqlalchemy
+sqlmodel
+python-multipart
+requests
+aiofiles
